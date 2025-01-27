@@ -1,4 +1,4 @@
-Battery EDA
+#Battery EDA
 
 Overview
 This repository contains an exploratory data analysis (EDA) notebook focused on battery data. The notebook analyzes and visualizes key metrics related to battery performance, lifespan, and other characteristics to uncover insights.
